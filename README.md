@@ -34,12 +34,13 @@ The physical interaction between these models is precisely interpreted by the re
 
 In one sentence it would be, 
 
-**[Converging new generation IT technology with old generation electronics and mechanical engineering experiences]**
+                  [Converging new generation IT technology with old generation electronics and mechanical
+                  engineering experiences]
 
 If you agree with the optimistic outlook for the future of physical computing, what industrial strategies should society establish and implement?
 
-First, it is necessary to establish a system in which young people can inherit the experience of senior groups, which have considerable experience in electronic and mechanical engineering. Like other generations, baby boomers have both merit and department. The retirement baby boomers' experience in electronic and mechanical engineering should not be lost.
+**First**, it is necessary to establish a system in which young people can inherit the experience of senior groups, which have considerable experience in electronic and mechanical engineering. Like other generations, baby boomers have both merit and department. The retirement baby boomers' experience in electronic and mechanical engineering should not be lost.
 
-Second, the organizational structure and culture must be restructured according to the transformation into a knowledge society. Physical computing must combine various majors and knowledge. Organizational structure, performance evaluation, and organizational culture must be transformed for the free distribution and linkage of knowledge.
+**Second**, the organizational structure and culture must be restructured according to the transformation into a knowledge society. Physical computing must combine various majors and knowledge. Organizational structure, performance evaluation, and organizational culture must be transformed for the free distribution and linkage of knowledge.
 
-Third, digital capabilities should be developed by the highest decision makers and policy makers. In a situation where digital general-purpose technology is increasing exponentially, if decision makers do not have digital capabilities, it is no different from operating express buses without a driver's license.
+**Third**, digital capabilities should be developed by the highest decision makers and policy makers. In a situation where digital general-purpose technology is increasing exponentially, if decision makers do not have digital capabilities, it is no different from operating express buses without a driver's license.
