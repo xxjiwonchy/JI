@@ -5,13 +5,13 @@ Physical computing crosses the scope of activity in academic and industrial fiel
           [In a broader concept, physical computing is a creative framework that understands the relationship between humans and the digital world.]
 
 
-#**universe is in the form of a virtual computer…**
+ #**universe is in the form of a virtual computer…
 ..
 .
 .
 .\
 
-#**META:VERSE**
+META:VERSE****
 
 "The word Metaverse has a meaning that can encompass changes such as cloud, digital transformation, artificial intelligence, blockchain, virtual world of numerous games, online and offline commerce, and non-face-to-face trends after COVID-19." I think this word can be expanded and interpreted in various ways into tangible and intangible industries or business models, and applied whatever anyone says."
 
