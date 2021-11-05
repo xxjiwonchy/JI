@@ -2,7 +2,8 @@
 
 Physical computing means creating an interactive physical system by using software and hardware that can feel and react to the analog world. Although this definition is broad enough to encompass systems such as smart car traffic control systems and factory automation processes, it is not commonly used to describe them. Substantially, the term generally refers to handicrafts, designs, and DIY hobby projects that convert analog inputs into software systems using sensors and microcontrollers or control electromechanical devices such as motors and lighting.
 Physical computing crosses the scope of activity in academic and industrial fields such as electrical airports, mechatronics, robotics, computer science, especially embedded development.
-          **[In a broader concept, physical computing is a creative framework that understands the relationship between humans and the digital world.]**
+         
+         **[In a broader concept, physical computing is a creative framework that understands the relationship between humans and the digital world.]**
 
 
  # The universe is in the form of a virtual computer…
@@ -31,6 +32,7 @@ The physical interaction between these models is precisely interpreted by the re
 # **MANIFESTO : How should physical computing be in future**
 
 In one sentence it would be, 
+
 **[Converging new generation IT technology with old generation electronics and mechanical engineering experiences]**
 
 If you agree with the optimistic outlook for the future of physical computing, what industrial strategies should society establish and implement?
