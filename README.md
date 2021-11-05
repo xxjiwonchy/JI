@@ -24,13 +24,15 @@ Now, in a world where everything can be digitally implemented, not reality, conn
 : **(This article is written in 2142)**
 
 
-                  [There are numerous physical phenomenas in computer games. In particular, in the case of action games, racing games, or physical simulation games, it is no exaggeration to say that the basic mechanism itself is controlled by physical phenomena.
+There are numerous physical phenomenas in computer games. In particular, in the case of action games, racing games, or physical simulation games, it is no exaggeration to say that the basic mechanism itself is controlled by physical phenomena.
 
 Microphysical computing refers to a technology that implements physical phenomena occurring in a game using actual physical space instead of implementing them with abstract numerical values. For example, the CPU/GPU does not calculate the act of dropping a ball in the air based on a vector, but drops the real ball in the existing physical space and outputs the result value in real time in the game screen.
 
-Microphysical computing technology, as its name suggests, performs this physical experiment in a very small micro-scale space. Inside a finger-sized chip made for microphysical computing, there is a vacuum tube filled with fine metal dust that can be controlled by electrical signals, in which all the physical objects currently appearing in the game are implemented in micro-scale, tiny stereoscopic models.]
+Microphysical computing technology, as its name suggests, performs this physical experiment in a very small micro-scale space. Inside a finger-sized chip made for microphysical computing, there is a vacuum tube filled with fine metal dust that can be controlled by electrical signals, in which all the physical objects currently appearing in the game are implemented in micro-scale, tiny stereoscopic models.
 
 The physical interaction between these models is precisely interpreted by the real-time 3D scanner surrounding the tube and transmitted to the game program in the form of input values.
+
+
 
 # **MANIFESTO : How should physical computing be in future**
 
