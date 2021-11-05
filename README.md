@@ -18,7 +18,7 @@ Physical computing crosses the scope of activity in academic and industrial fiel
 In the past, there was a connection between devices, people, and people in reality.
 Now, in a world where everything can be digitally implemented, not reality, connectivity is also expanding indefinitely into the virtual world through physical space.
 
-Future video games and beyond
+**Future video games and beyond**
 : (This article is written in 2142)
 There are numerous physical phenomenas in computer games. In particular, in the case of action games, racing games, or physical simulation games, it is no exaggeration to say that the basic mechanism itself is controlled by physical phenomena.
 
@@ -28,7 +28,7 @@ Microphysical computing technology, as its name suggests, performs this physical
 
 The physical interaction between these models is precisely interpreted by the real-time 3D scanner surrounding the tube and transmitted to the game program in the form of input values.
 
-MANIFESTO : How should physical computing be in future
+**MANIFESTO : How should physical computing be in future**
 
 In one sentence it would be, [Converging new generation IT technology with old generation electronics and mechanical engineering experiences]
 
