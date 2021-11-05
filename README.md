@@ -22,6 +22,8 @@ Now, in a world where everything can be digitally implemented, not reality, conn
 
 # **Future video games and beyond**
 : **(This article is written in 2142)**
+
+
                   [There are numerous physical phenomenas in computer games. In particular, in the case of action games, racing games, or physical simulation games, it is no exaggeration to say that the basic mechanism itself is controlled by physical phenomena.
 
 Microphysical computing refers to a technology that implements physical phenomena occurring in a game using actual physical space instead of implementing them with abstract numerical values. For example, the CPU/GPU does not calculate the act of dropping a ball in the air based on a vector, but drops the real ball in the existing physical space and outputs the result value in real time in the game screen.
