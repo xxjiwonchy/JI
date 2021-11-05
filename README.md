@@ -2,24 +2,24 @@
 
 Physical computing means creating an interactive physical system by using software and hardware that can feel and react to the analog world. Although this definition is broad enough to encompass systems such as smart car traffic control systems and factory automation processes, it is not commonly used to describe them. Substantially, the term generally refers to handicrafts, designs, and DIY hobby projects that convert analog inputs into software systems using sensors and microcontrollers or control electromechanical devices such as motors and lighting.
 Physical computing crosses the scope of activity in academic and industrial fields such as electrical airports, mechatronics, robotics, computer science, especially embedded development.
-          [In a broader concept, physical computing is a creative framework that understands the relationship between humans and the digital world.]
+          **[In a broader concept, physical computing is a creative framework that understands the relationship between humans and the digital world.]**
 
 
- He**universe is in the form of a virtual computer…
+ # The universe is in the form of a virtual computer…
 ..
 .
 .
 .\
 
-META:VERSE****
+# META:VERSE
 
 "The word Metaverse has a meaning that can encompass changes such as cloud, digital transformation, artificial intelligence, blockchain, virtual world of numerous games, online and offline commerce, and non-face-to-face trends after COVID-19." I think this word can be expanded and interpreted in various ways into tangible and intangible industries or business models, and applied whatever anyone says."
 
 In the past, there was a connection between devices, people, and people in reality.
 Now, in a world where everything can be digitally implemented, not reality, connectivity is also expanding indefinitely into the virtual world through physical space.
 
-**Future video games and beyond**
-: (This article is written in 2142)
+# **Future video games and beyond**
+: **(This article is written in 2142)**
 There are numerous physical phenomenas in computer games. In particular, in the case of action games, racing games, or physical simulation games, it is no exaggeration to say that the basic mechanism itself is controlled by physical phenomena.
 
 Microphysical computing refers to a technology that implements physical phenomena occurring in a game using actual physical space instead of implementing them with abstract numerical values. For example, the CPU/GPU does not calculate the act of dropping a ball in the air based on a vector, but drops the real ball in the existing physical space and outputs the result value in real time in the game screen.
@@ -28,9 +28,10 @@ Microphysical computing technology, as its name suggests, performs this physical
 
 The physical interaction between these models is precisely interpreted by the real-time 3D scanner surrounding the tube and transmitted to the game program in the form of input values.
 
-#**MANIFESTO : How should physical computing be in future**
+# **MANIFESTO : How should physical computing be in future**
 
-In one sentence it would be, [Converging new generation IT technology with old generation electronics and mechanical engineering experiences]
+In one sentence it would be, 
+**[Converging new generation IT technology with old generation electronics and mechanical engineering experiences]**
 
 If you agree with the optimistic outlook for the future of physical computing, what industrial strategies should society establish and implement?
 
