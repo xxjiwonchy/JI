@@ -5,7 +5,7 @@ Physical computing crosses the scope of activity in academic and industrial fiel
           [In a broader concept, physical computing is a creative framework that understands the relationship between humans and the digital world.]
 
 
- #**universe is in the form of a virtual computer…
+ He**universe is in the form of a virtual computer…
 ..
 .
 .
